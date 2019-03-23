@@ -1,2 +1,4 @@
-year,Jamaica,Sex:Male,Sex:Female
-2008,6.5,11.8,1.4
+Year,Sex,Value
+2008,,6.5
+2008,Male,11.8
+2008,Female,1.4

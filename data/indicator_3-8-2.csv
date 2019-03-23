@@ -1,3 +1,41 @@
-year,Jamaica,Location:KMA,Location:Other Towns,Location:Rural,Sex:Male,Sex:Female,Income:Poorest,Income:Second,Income:Middle,Income:Fourth,Income:Wealthiest,Age:0-4 years,Age:5-9 years,Age:10-19 years,Age:20-29 years,Age:30-39 years,Age:40-49 years,Age:50-59 years,Age:60-64 years,Age:65+ years
-2014,17.7,31.1,14,10.3,16.4,19,3.6,6.7,9,20.2,38.8,13.4,14.1,12.1,15,22.7,19.4,24.3,25.1,21.4
-2015,18.9,31.1,18.3,11.3,17.7,20,3.7,7.1,11.7,23.2,40.3,12.5,13.3,12.9,18.5,20.7,21.8,28.3,19.6,24
+Year,Age,Income,Location,Sex,Value
+2014,,,,,17.7
+2015,,,,,18.9
+2014,,,KMA,,31.1
+2015,,,KMA,,31.1
+2014,,,Other Towns,,14
+2015,,,Other Towns,,18.3
+2014,,,Rural,,10.3
+2015,,,Rural,,11.3
+2014,,,,Male,16.4
+2015,,,,Male,17.7
+2014,,,,Female,19
+2015,,,,Female,20
+2014,,Poorest,,,3.6
+2015,,Poorest,,,3.7
+2014,,Second,,,6.7
+2015,,Second,,,7.1
+2014,,Middle,,,9
+2015,,Middle,,,11.7
+2014,,Fourth,,,20.2
+2015,,Fourth,,,23.2
+2014,,Wealthiest,,,38.8
+2015,,Wealthiest,,,40.3
+2014,0-4 years,,,,13.4
+2015,0-4 years,,,,12.5
+2014,5-9 years,,,,14.1
+2015,5-9 years,,,,13.3
+2014,10-19 years,,,,12.1
+2015,10-19 years,,,,12.9
+2014,20-29 years,,,,15
+2015,20-29 years,,,,18.5
+2014,30-39 years,,,,22.7
+2015,30-39 years,,,,20.7
+2014,40-49 years,,,,19.4
+2015,40-49 years,,,,21.8
+2014,50-59 years,,,,24.3
+2015,50-59 years,,,,28.3
+2014,60-64 years,,,,25.1
+2015,60-64 years,,,,19.6
+2014,65+ years,,,,21.4
+2015,65+ years,,,,24

@@ -1,2 +1,5 @@
-year,Jamaica,Location:Rural,Location:KMA,Location:Other Towns
-2015,6.9,10.7,2.8,4.3
+Year,Location,Value
+2015,,6.9
+2015,Rural,10.7
+2015,KMA,2.8
+2015,Other Towns,4.3

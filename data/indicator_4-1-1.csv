@@ -1,2 +1,7 @@
-year,Total|Subject:Reading,Sex:Male|Subject:Reading,Sex:Female|Subject:Reading,Total|Subject:Mathematics,Sex:Male|Subject:Mathematics,Sex:Female|Subject:Mathematics
-2016,80,44.8,55.2,60,44.2,55.8
+Year,Sex,Subject,Value
+2016,,Reading,80
+2016,Male,Reading,44.8
+2016,Female,Reading,55.2
+2016,,Mathematics,60
+2016,Male,Mathematics,44.2
+2016,Female,Mathematics,55.8

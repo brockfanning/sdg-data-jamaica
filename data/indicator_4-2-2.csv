@@ -1,2 +1,5 @@
-year,Total,Location:Rural,Location:KMA,Location:Other Towns
-2017,99.2,100,100,96.8
+Year,Location,Value
+2017,,99.2
+2017,Rural,100
+2017,KMA,100
+2017,Other Towns,96.8

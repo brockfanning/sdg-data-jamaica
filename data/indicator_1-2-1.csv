@@ -1,2 +1,14 @@
-year,Jamaica,Location:Rural,Location:KMA,Location:Other Towns,Sex:Male,Sex:Female,Age:0-8 years,Age:0-17 years,Age:10-19 years,Age:15-24 years,Age:25-34 years,Age:35-59 years,Age:60 years
-2015,21.2,28.5,14.3,14.7,14,16.6,24.2,26.5,27.8,26.2,18.8,16.3,17.9
+Year,Age,Location,Sex,Value
+2015,,,,21.2
+2015,,Rural,,28.5
+2015,,KMA,,14.3
+2015,,Other Towns,,14.7
+2015,,,Male,14
+2015,,,Female,16.6
+2015,0-8 years,,,24.2
+2015,0-17 years,,,26.5
+2015,10-19 years,,,27.8
+2015,15-24 years,,,26.2
+2015,25-34 years,,,18.8
+2015,35-59 years,,,16.3
+2015,60 years,,,17.9

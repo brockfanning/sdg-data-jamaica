@@ -1,2 +1,4 @@
-year,Jamaica,Sex:Male,Sex:Female
-2016,1,1.4,0.4
+Year,Sex,Value
+2016,,1
+2016,Male,1.4
+2016,Female,0.4

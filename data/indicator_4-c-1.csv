@@ -1,2 +1,4 @@
-year,Total|Education level:Pre-primary,Total|Education level:Primary,Total|Education level:Lower secondary
-2017,82.9,93.3,83.1
+Year,Education level,Value
+2017,Pre-primary,82.9
+2017,Primary,93.3
+2017,Lower secondary,83.1

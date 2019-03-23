@@ -1,3 +1,27 @@
-year,Jamaica,Location:Rural,Location:KMA,Location:Other Towns,Age:15-19 years,Age:20-24 years,Age:25-29 years,Age:30-34 years,Age:35-39 years,Age:40-44 years,Age:45-49 years,Mother's Education (15-19 years):None/Primary,Mother's Education (15-19 years):Secondary,Mother's Education (15-19 years):Tertiary
-2008,72,74,51,83,72,,,,,,,,,
-2011,70,67,73,70,70,106,118,72,59,16,3,177,66,87
+Year,Age,Location,Mother's Education (15-19 years),Value
+2008,,Rural,,74
+2011,,Rural,,67
+2008,,KMA,,51
+2011,,KMA,,73
+2008,,Other Towns,,83
+2011,,Other Towns,,70
+2008,15-19 years,,,72
+2011,15-19 years,,,70
+2008,20-24 years,,,0
+2011,20-24 years,,,106
+2008,25-29 years,,,0
+2011,25-29 years,,,118
+2008,30-34 years,,,0
+2011,30-34 years,,,72
+2008,35-39 years,,,0
+2011,35-39 years,,,59
+2008,40-44 years,,,0
+2011,40-44 years,,,16
+2008,45-49 years,,,0
+2011,45-49 years,,,3
+2008,,,None/Primary,0
+2011,,,None/Primary,177
+2008,,,Secondary,0
+2011,,,Secondary,66
+2008,,,Tertiary,0
+2011,,,Tertiary,87

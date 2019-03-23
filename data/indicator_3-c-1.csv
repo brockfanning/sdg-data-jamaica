@@ -1,2 +1,23 @@
-year,Total|Units:Health worker density and distribution,Employment type:General Medical Practitioner|Units:Health worker density and distribution,Employment type:Specialist Medical Practitioner|Units:Health worker density and distribution,Employment type:Nursing Professional|Units:Health worker density and distribution,Employment type:Nursing Associate Professional|Units:Health worker density and distribution,Employment type:Midwifery Professional|Units:Health worker density and distribution,Employment type:Midwifery Associate Professional|Units:Health worker density and distribution,Employment type:Dentist|Units:Health worker density and distribution,Employment type:Dental Assistant|Units:Health worker density and distribution,Employment type:Pharmacist|Units:Health worker density and distribution,Employment type:Pharmaceutical Technician and Assistants|Units:Health worker density and distribution,Total|Units:Number of Health Workers and distribution,Employment type:General Medical Practitioner|Units:Number of Health Workers and distribution,Employment type:Specialist Medical Practitioner|Units:Number of Health Workers and distribution,Employment type:Nursing Professional|Units:Number of Health Workers and distribution,Employment type:Nursing Associate Professional|Units:Number of Health Workers and distribution,Employment type:Midwifery Professional|Units:Number of Health Workers and distribution,Employment type:Midwifery Associate Professional|Units:Number of Health Workers and distribution,Employment type:Dentist|Units:Number of Health Workers and distribution,Employment type:Dental Assistant|Units:Number of Health Workers and distribution,Employment type:Pharmacist|Units:Number of Health Workers and distribution,Employment type:Pharmaceutical Technician and Assistants|Units:Number of Health Workers and distribution
-2016,,0.35,0.14,1.17,0.4,0.14,0,0.02,0.05,0.02,0.03,6333,950,372,3201,1086,382,,45,140,63,94
+Year,Employment type,Units,Value
+2016,,Health worker density and distribution,0
+2016,General Medical Practitioner,Health worker density and distribution,0.35
+2016,Specialist Medical Practitioner,Health worker density and distribution,0.14
+2016,Nursing Professional,Health worker density and distribution,1.17
+2016,Nursing Associate Professional,Health worker density and distribution,0.4
+2016,Midwifery Professional,Health worker density and distribution,0.14
+2016,Midwifery Associate Professional,Health worker density and distribution,0
+2016,Dentist,Health worker density and distribution,0.02
+2016,Dental Assistant,Health worker density and distribution,0.05
+2016,Pharmacist,Health worker density and distribution,0.02
+2016,Pharmaceutical Technician and Assistants,Health worker density and distribution,0.03
+2016,,Number of Health Workers and distribution,6333
+2016,General Medical Practitioner,Number of Health Workers and distribution,950
+2016,Specialist Medical Practitioner,Number of Health Workers and distribution,372
+2016,Nursing Professional,Number of Health Workers and distribution,3201
+2016,Nursing Associate Professional,Number of Health Workers and distribution,1086
+2016,Midwifery Professional,Number of Health Workers and distribution,382
+2016,Midwifery Associate Professional,Number of Health Workers and distribution,0
+2016,Dentist,Number of Health Workers and distribution,45
+2016,Dental Assistant,Number of Health Workers and distribution,140
+2016,Pharmacist,Number of Health Workers and distribution,63
+2016,Pharmaceutical Technician and Assistants,Number of Health Workers and distribution,94

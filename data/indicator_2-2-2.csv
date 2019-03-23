@@ -1,2 +1,23 @@
-year,Jamaica|Type:Wasting,Location:Rural|Type:Wasting,Location:KMA|Type:Wasting,Location:Other Towns|Type:Wasting,Sex:Male|Type:Wasting,Sex:Female|Type:Wasting,Age:0-11 months|Type:Wasting,Age:12-23 months|Type:Wasting,Age:24-35 months|Type:Wasting,Age:36-47 months|Type:Wasting,Age:48-59 months|Type:Wasting,Jamaica|Type:Overweight,Location:Rural|Type:Overweight,Location:KMA|Type:Overweight,Location:Other Towns|Type:Overweight,Sex:Male|Type:Overweight,Sex:Female|Type:Overweight,Age:0-11 months|Type:Overweight,Age:12-23 months|Type:Overweight,Age:24-35 months|Type:Overweight,Age:36-47 months|Type:Overweight,Age:48-59 months|Type:Overweight
-2012,3,2.9,2.7,3.5,3,2.9,8,6,8,2.9,3.5,7.8,7.5,10.5,5.7,5.8,10.1,11.7,10.2,5.7,6.4,6.3
+Year,Age,Location,Sex,Type,Value
+2012,,,,Wasting,3
+2012,,Rural,,Wasting,2.9
+2012,,KMA,,Wasting,2.7
+2012,,Other Towns,,Wasting,3.5
+2012,,,Male,Wasting,3
+2012,,,Female,Wasting,2.9
+2012,0-11 months,,,Wasting,8
+2012,12-23 months,,,Wasting,6
+2012,24-35 months,,,Wasting,8
+2012,36-47 months,,,Wasting,2.9
+2012,48-59 months,,,Wasting,3.5
+2012,,,,Overweight,7.8
+2012,,Rural,,Overweight,7.5
+2012,,KMA,,Overweight,10.5
+2012,,Other Towns,,Overweight,5.7
+2012,,,Male,Overweight,5.8
+2012,,,Female,Overweight,10.1
+2012,0-11 months,,,Overweight,11.7
+2012,12-23 months,,,Overweight,10.2
+2012,24-35 months,,,Overweight,5.7
+2012,36-47 months,,,Overweight,6.4
+2012,48-59 months,,,Overweight,6.3

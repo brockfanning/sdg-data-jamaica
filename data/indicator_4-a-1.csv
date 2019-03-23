@@ -1,2 +1,15 @@
-year,Education level:Primary|Access:Electricity,Education level:Upper Secondary|Access:Electricity,Education level:Primary|Access:Internet,Education level:Upper Secondary|Access:Internet,Education level:Primary|Access:Computers,Education level:Upper Secondary|Access:Computers,Education level:Primary|Access:Adapted for disabilities,Education level:Upper Secondary|Access:Adapted for disabilities,Education level:Primary|Access:Water,Education level:Upper Secondary|Access:Water,Education level:Primary|Access:Single-sex sanitation,Education level:Upper Secondary|Access:Single-sex sanitation,Education level:Primary|Access:Handwashing,Education level:Upper Secondary|Access:Handwashing
-2017,58.7,100,69.8,100,100,100,13.3,25.9,58.7,100,58.7,100,58.7,100
+Year,Access,Education level,Value
+2017,Electricity,Primary,58.7
+2017,Electricity,Upper Secondary,100
+2017,Internet,Primary,69.8
+2017,Internet,Upper Secondary,100
+2017,Computers,Primary,100
+2017,Computers,Upper Secondary,100
+2017,Adapted for disabilities,Primary,13.3
+2017,Adapted for disabilities,Upper Secondary,25.9
+2017,Water,Primary,58.7
+2017,Water,Upper Secondary,100
+2017,Single-sex sanitation,Primary,58.7
+2017,Single-sex sanitation,Upper Secondary,100
+2017,Handwashing,Primary,58.7
+2017,Handwashing,Upper Secondary,100

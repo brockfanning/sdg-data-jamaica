@@ -1,2 +1,5 @@
-year,Jamaica,Location:Rural,Location:KMA,Location:Other Towns,Age Group (15-49 years),Age Group (15-49 years),Age Group (15-49 years),Age Group (15-49 years),Age Group (15-49 years),Age Group (15-49 years),Age Group (15-49 years)
-2008,68.2,68.7,67.8,67.9,67.2,71.3,68.1,70,70.4,67.4,56.3
+Year,Location,Value
+2008,,68.2
+2008,Rural,68.7
+2008,KMA,67.8
+2008,Other Towns,67.9
