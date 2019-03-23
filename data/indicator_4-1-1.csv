@@ -1,3 +1,2 @@
-year, Indicator Component, Total,Male,Female
-2015/16, a) i., 80,44.8,55.2
-2015/16, a) ii., 60,44.2,55.8
+year,Total|Subject:Reading,Sex:Male|Subject:Reading,Sex:Female|Subject:Reading,Total|Subject:Mathematics,Sex:Male|Subject:Mathematics,Sex:Female|Subject:Mathematics
+2016,80,44.8,55.2,60,44.2,55.8

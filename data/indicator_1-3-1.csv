@@ -1,4 +1,4 @@
-year,Population,Children,Poor Adults ,persons with disabilities,Elderly,Pregnant women
-2013, 13.7,40.7,0.44,8.1,19.7,4.7
-2014, 13.7,30.9,0.66,8.6,20.1,5.5
-2015, 13.9,32.4,0.71,9.4,20.4,5.3
+year,Population,Category:Children,Category:Poor Adults,Category:persons with disabilities,Category:Elderly,Category:Pregnant women
+2013,13.7,40.7,0.44,8.1,19.7,4.7
+2014,13.7,30.9,0.66,8.6,20.1,5.5
+2015,13.9,32.4,0.71,9.4,20.4,5.3

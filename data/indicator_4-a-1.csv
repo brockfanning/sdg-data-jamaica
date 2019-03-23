@@ -1,8 +1,2 @@
-year, Indicator Component, Primary, Upper Secondary
-2016/17,a,58.7,100
-2016/17,b,69.8,100
-2016/17,c,100,100
-2016/17,d,13.3,25.9
-2016/17,e,58.7,100
-2016/17,f,58.7,100
-2016/17,g,58.7,100
+year,Education level:Primary|Access:Electricity,Education level:Upper Secondary|Access:Electricity,Education level:Primary|Access:Internet,Education level:Upper Secondary|Access:Internet,Education level:Primary|Access:Computers,Education level:Upper Secondary|Access:Computers,Education level:Primary|Access:Adapted for disabilities,Education level:Upper Secondary|Access:Adapted for disabilities,Education level:Primary|Access:Water,Education level:Upper Secondary|Access:Water,Education level:Primary|Access:Single-sex sanitation,Education level:Upper Secondary|Access:Single-sex sanitation,Education level:Primary|Access:Handwashing,Education level:Upper Secondary|Access:Handwashing
+2017,58.7,100,69.8,100,100,100,13.3,25.9,58.7,100,58.7,100,58.7,100
