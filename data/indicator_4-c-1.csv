@@ -1,7 +1,4 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+year, Indicator Component,Total
+2016/17,a,82.9
+2016/17,b,93.3
+2016/17,c,83.1
