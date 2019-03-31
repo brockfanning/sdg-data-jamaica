@@ -1,7 +1,18 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Parish,Sex,Value
+2015,,,2.02
+2015,,Male,3.48
+2015,,Female,0.58
+2015,Kingston,,0.3
+2015,St. Thomas,,3.16
+2015,Portland,,6.05
+2015,St. Mary,,1.74
+2015,St. Ann,,2.87
+2015,Trelawny,,2.63
+2015,St. James,,1.08
+2015,Hanover,,0
+2015,Westmoreland,,0.69
+2015,St. Elizabeth,,3.95
+2015,Manchester,,2.61
+2015,Clarendon,,1.62
+2015,St. Catherine,,1.73
+2015,St. Andrew,,1.34

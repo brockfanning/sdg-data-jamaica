@@ -1,7 +1,19 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Category,Value
+2013,,13.7
+2014,,13.7
+2015,,13.9
+2013,Children,40.7
+2014,Children,30.9
+2015,Children,32.4
+2013,Poor Adults,0.44
+2014,Poor Adults,0.66
+2015,Poor Adults,0.71
+2013,persons with disabilities,8.1
+2014,persons with disabilities,8.6
+2015,persons with disabilities,9.4
+2013,Elderly,19.7
+2014,Elderly,20.1
+2015,Elderly,20.4
+2013,Pregnant women,4.7
+2014,Pregnant women,5.5
+2015,Pregnant women,5.3

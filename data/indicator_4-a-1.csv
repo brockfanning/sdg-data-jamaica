@@ -1,7 +1,15 @@
-Year,Group,Value
-2015,A,1
-2015,B,3
-2015,,2
-2016,A,1
-2016,B,3
-2016,,2
+Year,Access,Education level,Value
+2017,Electricity,Primary,58.7
+2017,Electricity,Upper Secondary,100
+2017,Internet,Primary,69.8
+2017,Internet,Upper Secondary,100
+2017,Computers,Primary,100
+2017,Computers,Upper Secondary,100
+2017,Adapted for disabilities,Primary,13.3
+2017,Adapted for disabilities,Upper Secondary,25.9
+2017,Water,Primary,58.7
+2017,Water,Upper Secondary,100
+2017,Single-sex sanitation,Primary,58.7
+2017,Single-sex sanitation,Upper Secondary,100
+2017,Handwashing,Primary,58.7
+2017,Handwashing,Upper Secondary,100
